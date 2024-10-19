@@ -1,7 +1,3 @@
-Here is the refined **README file** for the **Revenue-Mate API**, using the routes and project information you've shared:
-
----
-
 # Revenue-Mate API Documentation
 
 **Revenue-Mate** is a comprehensive **Point of Sale (POS) web application** designed to streamline business operations by tracking sales, expenses, and managing inventory. It offers features like **transaction filtering, inventory control**, and more, ensuring efficient financial management for businesses.
