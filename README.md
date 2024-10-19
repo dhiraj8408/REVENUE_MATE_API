@@ -89,7 +89,7 @@ The API will be available at `http://localhost:5000/`.
   ```
 
 - **Logout**  
-  **POST** `/revenueMate/v1/logout`
+  **GET** `/revenueMate/v1/logout`
 
 ---
 
